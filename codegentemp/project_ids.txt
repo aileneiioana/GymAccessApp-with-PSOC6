@@ -1,0 +1,8 @@
+C:\Users\ailen\OneDrive\Documents\PSoC Creator\Workspace01\CapSenseDesign_freeRTOS.cydsn\CapSenseDesign_freeRTOS.cyprj|a20600f3-db31-47d7-8923-cd2d5d9d6369
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|45b30bd5-4f66-49b6-9ab6-c7b30817aac9
+C:\Users\ailen\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|48e8acd2-1ee4-49c5-a0b6-f2b8d691ad82
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|6c13168f-7777-4ef7-aa5e-9fe57a3d9020
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|60c608ba-c5cd-4dc2-bf95-64be15d0bb88
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|94377640-347a-42d0-a71e-2318e05bd00b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc6\PSoC6AnalogDevice\PSoC6AnalogDevice.cydsn\PSoC6AnalogDevice.cyprj|767a4396-0129-440b-927f-cc530c0eafaf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|9a52872f-1b72-4fae-80ec-3e5738ef5c3a

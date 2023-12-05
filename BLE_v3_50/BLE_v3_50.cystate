@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ComponentStateRules Version="1">
+	<Rule>
+        <IpPattern>
+           <IpName>m0s8bless</IpName>
+		   <IpVersion>1</IpVersion>
+        </IpPattern>
+        <State>Production</State>
+        <Severity>None</Severity>
+        <Message />
+    </Rule>
+	<Rule>
+        <IpPattern>
+           <IpName>m0s8bless</IpName>
+		   <IpVersion>2</IpVersion>
+        </IpPattern>
+        <State>Production</State>
+        <Severity>None</Severity>
+        <Message />
+    </Rule>
+    <Rule>
+        <IpPattern>
+           <IpName>m0s8bless</IpName>
+		   <IpVersion>3</IpVersion>
+        </IpPattern>
+        <State>Prototype</State>
+        <Severity>None</Severity>
+        <Message />
+    </Rule>
+    <Rule>
+        <Pattern>
+        </Pattern>
+        <State>Incompatible</State>
+        <Severity>Error</Severity>
+        <Message />
+    </Rule>
+</ComponentStateRules>

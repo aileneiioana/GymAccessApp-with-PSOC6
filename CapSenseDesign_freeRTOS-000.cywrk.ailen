@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\TopDesign">
+<ExpandedNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\TopDesign</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Pins</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Analog</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\DMA</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Clocks</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Interrupts</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\System</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Directives</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM GCC Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM IAR Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM MDK Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Header Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM GCC Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM IAR Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM MDK Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Header Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Header Files\RTOS and Task Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Header Files\RTOS and Task Files\FreeRTOSConfig.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Header Files\RTOS and Task Files\task_rgb.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Header Files\RTOS and Task Files\task_touch.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Header Files\RTOS and Task Files\uart_debug.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\RTOS and Task Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\RTOS and Task Files\main_cm4.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Shared Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Shared Files\capsense_callback.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Shared Files\cy_ble_config.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Shared Files\cyapicallbacks.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Shared Files\stdio_user.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Shared Files\stdio_user.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Shared Files\system_psoc6.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Generated_Source</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Generated_Source\PSoC6</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\TopDesign</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Pins</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Analog</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\DMA</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Clocks</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Interrupts</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\System</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.cydwr\Directives</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM GCC Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM IAR Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM MDK Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Header Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM GCC Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM IAR Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM MDK Generic</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_aios.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_aios.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ancs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ancs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ans.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ans.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bas.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bas.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bcs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bcs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bls.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bls.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bms.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bms.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bts.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bts.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cgms.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cgms.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cps.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cps.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cscs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cscs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cts.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cts.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_custom.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_custom.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_dis.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_dis.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ess.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ess.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_eventHandler.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_eventHandler.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_gatt.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_gatt.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_gls.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_gls.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_HAL_INT.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_HAL_PVT.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_HAL_PVT.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hids.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hids.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hps.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hps.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hrs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hrs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hts.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_hts.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ias.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ias.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ips.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ips.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_lls.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_lls.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_lns.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_lns.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ndcs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ndcs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_pass.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_pass.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_plxs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_plxs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_rscs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_rscs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_rtus.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_rtus.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_scps.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_scps.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_Stack.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_STACK_PVT.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_StackGap.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_StackGatt.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_StackGattClient.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_StackGattDb.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_StackGattServer.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_StackHostMain.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_StackL2cap.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_tps.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_tps.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_uds.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_uds.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_wpts.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_wpts.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_wss.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_wss.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\FM0p</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\FM0p\.exclude</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\FM3</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\FM3\.exclude</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\FM4</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\FM4\.exclude</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\gccCyBLEStack_BLE_SOC_CENTRAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\gccCyBLEStack_BLE_SOC_CENTRAL_PERIPHERAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\gccCyBLEStack_BLE_SOC_PERIPHERAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\gccCyBLEStack_HCI_MODE_CENTRAL_PERIPHERAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\mdkCyBLEStack_BLE_SOC_CENTRAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\mdkCyBLEStack_BLE_SOC_CENTRAL_PERIPHERAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\mdkCyBLEStack_BLE_SOC_PERIPHERAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\Library\mdkCyBLEStack_HCI_MODE_CENTRAL_PERIPHERAL.a</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\PSoC3</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\PSoC3\.exclude</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\PSoC4</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\PSoC4\BLE_v3_50.cysch</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\PSoC5</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\PSoC5\.exclude</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\BLE_v3_50.chm</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\BLE_v3_50.cystate</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\BLE_v3_50.cysym</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\BLE_v3_50.dll</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\BLE_v3_50.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\cybleresource_v3_50.dll</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\version.cypatch</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\TopDesign</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_aios.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_aios.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ancs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ancs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ans.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ans.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bas.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bas.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bcs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bcs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bls.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bls.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bms.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bms.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bts.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_bts.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cgms.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cgms.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cps.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cps.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cscs.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cscs.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cts.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_cts.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_custom.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_custom.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_dis.c</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_dis.h</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_v3_50\API\BLE_ess.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_config.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_ias_config.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\capsense_callback.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Centroid_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSX_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_aios.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ancs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ans.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bas.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bcs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bls.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bms.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cgms.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cscs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_custom.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_dis.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ess.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_event_handler.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gap.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gatt.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gls.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_int.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_pvt.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hids.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hrs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ias.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ips.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_lls.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_lns.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ndcs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_pass.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_plxs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_rscs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_rtus.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_scps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_tps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_uds.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_wpts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_wss.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_tcpwm_counter.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_tcpwm_pwm.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_tcpwm_quaddec.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\DEBUG_UART.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Red.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\CapSenseDesign_freeRTOS.elf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\CapSenseDesign_freeRTOS.hex</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\CapSenseDesign_freeRTOS.map</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\BLE_config.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\BLE_ias_config.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\capsense_callback.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Centroid_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSX_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\croutine.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_aios.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ancs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ans.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bas.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bcs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bls.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bms.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cgms.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cscs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_custom.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_dis.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ess.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_event_handler.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_gap.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_gatt.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_gls.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_int.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_pvt.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hids.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hrs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ias.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ips.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_lls.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_lns.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ndcs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_pass.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_plxs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_rscs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_rtus.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_scps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_tps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_uds.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_wpts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_wss.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_tcpwm_counter.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_tcpwm_pwm.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_tcpwm_quaddec.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\DEBUG_UART.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\event_groups.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\heap_1.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\list.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\port.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\PWM_Red.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\queue.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\stream_buffer.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\tasks.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\Listing Files\timers.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\CapSenseDesign_freeRTOS.elf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\CapSenseDesign_freeRTOS.hex</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM4\ARM_GCC_541\Debug\CapSenseDesign_freeRTOS.map</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.gpdsc</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS.rpt</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSenseDesign_freeRTOS_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_config.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_ias_config.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\capsense_callback.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Centroid_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSX_LL.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_aios.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ancs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ans.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bas.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bcs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bls.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bms.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cgms.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cps.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cscs.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cts.lst</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_custom.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\PSoC 6 Architecture TRM</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\PSoC 63 Family Datasheet</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Peripheral Driver Library</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\System Reference Guides</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_PDL_v2_20.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSense_v3_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\GPIO_PDL_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\LED_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\LED_v1_0\LED_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Power_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Power_v1_0\Power_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Resistor_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\SCB_UART_PDL_v2_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\SysClk_PDL_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\TCPWM_PWM_PDL_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CapSenseDesign_freeRTOS-000</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\PSoC 6 Architecture TRM</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\PSoC 63 Family Datasheet</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Peripheral Driver Library</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\System Reference Guides</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\BLE_PDL_v2_20.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\CapSense_v3_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\GPIO_PDL_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\LED_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\LED_v1_0\LED_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Power_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Power_v1_0\Power_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Resistor_v1_0</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\SCB_UART_PDL_v2_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\SysClk_PDL_v1_0.pdf</v>
+<v>CapSenseDesign_freeRTOS-000\CapSenseDesign_freeRTOS\TCPWM_PWM_PDL_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\FreeRTOSConfig.h" />
+<name v=".\Generated_Source\PSoC6\BLE_config.h" />
+<name v=".\main_cm0p.c" />
+<name v=".\CapSenseDesign_freeRTOS.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1157, 488" SelectedTabbedMdiWindow="6870b017-93da-452f-b8a1-f70637e6e0af"><DocumentWindow Key="C:\Users\ailen\OneDrive\Documents\PSoC Creator\Workspace01\CapSenseDesign_freeRTOS.cydsn\TopDesign\TopDesign.cysch" Guid="6870b017-93da-452f-b8a1-f70637e6e0af" /><DocumentWindow Key="C:\Users\ailen\OneDrive\Documents\PSoC Creator\Workspace01\CapSenseDesign_freeRTOS.cydsn\FreeRTOSConfig.h" Guid="6bd3a2e1-289c-4e59-89cf-ff77614c90fe" /><DocumentWindow Key="C:\Users\ailen\OneDrive\Documents\PSoC Creator\Workspace01\CapSenseDesign_freeRTOS.cydsn\Generated_Source\PSoC6\BLE_config.h" Guid="1beeb61f-1f2d-4017-bfcb-9d77b62b9765" /><DocumentWindow Key="C:\Users\ailen\OneDrive\Documents\PSoC Creator\Workspace01\CapSenseDesign_freeRTOS.cydsn\main_cm0p.c" Guid="34ec9113-0fbd-4b28-be3e-569fc4873230" /><DocumentWindow Key="C:\Users\ailen\OneDrive\Documents\PSoC Creator\Workspace01\CapSenseDesign_freeRTOS.cydsn\CapSenseDesign_freeRTOS.cydwr" Guid="009c87fd-c9cd-4353-9efb-f11f7147ed17" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
